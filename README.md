@@ -1,7 +1,7 @@
 set-solver
 ==========
 
-A Perl script to solve games of Set.
+A Perl script to solve games of [Set](http://www.setgame.com/).
 
 This program accepts lines describing deals of cards, on standard input, and outputs all valid sets on standard output.
 
