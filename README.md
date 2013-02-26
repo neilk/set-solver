@@ -17,10 +17,13 @@ For each card, there is one letter to describe number, then color, then shade, t
 - shape: s = squiggle, o = oval, d = diamond
 
 
-For instance, if we had cards like 
-    3 green empty ovals       1 red filled squiggle     3 green shaded ovals      3 red empty diamonds 
-    2 purple empty ovals      1 red empty oval          1 purple empty diamond    3 purple shaded squiggles
-    3 purple empty squiggles  3 purple filled diamonds  2 purple shaded diamonds  3 green empty diamonds
+For instance, if we had cards like this:
+
+|  |  |  |  |
+| ------------------------- | ------------------------- | ------------------------- | -------------------------- |
+| 3 green empty ovals       | 1 red filled squiggle     | 3 green shaded ovals      | 3 red empty diamonds       |
+| 2 purple empty ovals      | 1 red empty oval          | 1 purple empty diamond    | 3 purple shaded squiggles  |
+| 3 purple empty squiggles  | 3 purple filled diamonds  | 2 purple shaded diamonds  | 3 green empty diamonds     |
 
 we could run it like this:
 
